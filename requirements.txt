@@ -1,0 +1,5 @@
+numpy
+tensorflow-cpu
+matplotlib
+opencv-python
+imageio
